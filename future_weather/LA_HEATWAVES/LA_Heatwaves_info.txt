@@ -1,0 +1,6 @@
+Number of histo HW: 3
+Number of future mid-term HW: 43
+Number of future long-term HW: 83
+Spic: 23.8
+Sdeb: 22.4
+Sint: 21.7
